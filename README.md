@@ -18,3 +18,7 @@
 
    Agora dentro do nosso recurso de AI Search, nós iremos importar os dados que já estão na nossa storage account, e é aqui que vamos definir o que queremos extrair de informações, sentimentos, geração de imagens por exemplo. Após termos importado os nossos dados o nosso serviço de pesquisa já estará configurado e podemos então a partir do nosso Azure Search Service na aba de Search Explorer pesquisa por palavras chaves através do JSON query editor e verificar qual o resultado que o nosso AI service retorna, analisando sentimentos, palavras chaves, entidades e etc. 
    Temos ainda uma outra funcionalidade que seria verificar a geração de imagens dentro do container coffee-skillset-image-projection, que foi criado durante o processo de implementação dos serviços. Ao entrarmos no container acima, podemos clicar em qualquer das pastas que irá nos abrir 2 arquivos .jpg. Clicando em qualquer um desses arquivos irá nos abrir uma nova aba, selecionamos a opção "Edit" e irá ser mostrada a imagem gerada. Aqui está o enriquecimento dos dados do nosso AI Service. 
+
+   # Conclusão
+
+   Sem dúvida essa é uma ferramenta poderosíssima dentro do mundo dos negócios, onde as empresas utilizam dos reviews dos seus clientes para balizar os seus produtos, promoções, expansão de negócios, criação de novos produtos. O uso do enriquecimento de informações, com a extração de palavras chaves, detecção de sentimentos, tudo isso auxilia e muito na hora da tomada de decisão de uma empresa. 
